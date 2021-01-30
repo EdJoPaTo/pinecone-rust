@@ -1,7 +1,7 @@
 #![no_std]
 #![no_main]
 
-use bl602_hal::{serial::*, pac, prelude::*, clock::Strict};
+use bl602_hal::{clock::Strict, pac, prelude::*, serial::*};
 
 use panic_halt as _;
 
@@ -12,8 +12,7 @@ fn main() -> ! {
 
     /* TODO: This code causes the debugger to hang on PineCone
     // enable clock
-    let clocks = Strict::new()
-        .freeze(&mut parts.clk_cfg);
+    let clocks = Strict::new().freeze(&mut parts.clk_cfg);
     let pin16 = parts.pin16.into_uart_sig0();
     let pin7 = parts.pin7.into_uart_sig7();
     let mux0 = parts.uart_mux0.into_uart0_tx();
@@ -22,7 +21,7 @@ fn main() -> ! {
         dp.UART,
         Config::default().baudrate(20000.Bd()),
         ((pin16, mux0), (pin7, mux7)),
-        clocks
+        clocks,
     );
     loop {
         serial.try_write(b'R').ok();
