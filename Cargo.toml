@@ -7,7 +7,11 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-riscv-rt = "*"
-bl602-hal = { path = "../bl602-hal" }
-panic-halt = "*"
-riscv = "*"
+riscv-rt = "0.8"
+panic-halt = "0.2"
+riscv = "0.6"
+
+[dependencies.bl602-hal]
+git = "https://github.com/sipeed/bl602-hal"
+branch = "main"
+# path = "../bl602-hal"
