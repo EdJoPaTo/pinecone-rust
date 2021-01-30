@@ -1,3 +1,5 @@
+![PineNut on a PinePhone](https://edjopato.de/assets/2021/01/pinephone-pinenut.jpg)
+
 # PineCone BL602 Rust Guide
 
 Based on...
