@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["clock","SoC clock configuration"],["gpio","General Purpose Input/Output"],["prelude","HAL crate prelude"],["serial","Serial communication"]]});

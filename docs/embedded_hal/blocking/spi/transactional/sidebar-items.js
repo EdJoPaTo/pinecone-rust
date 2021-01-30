@@ -1,1 +1,0 @@
-initSidebarItems({"trait":[["Default","Default implementation of `blocking::spi::Transactional<W>` for implementers of `spi::Write<W>` and `spi::Transfer<W>`"]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Clocks",""],["Strict","Strict clock configurator"]]});

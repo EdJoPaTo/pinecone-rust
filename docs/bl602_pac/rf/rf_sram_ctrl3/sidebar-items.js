@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["R","Register `rf_sram_ctrl3` reader"],["RF_SRAM_ADC_STS_R","Field `rf_sram_adc_sts` reader - "],["RF_SRAM_ADC_STS_W","Field `rf_sram_adc_sts` writer - "],["RF_SRAM_CTRL3_SPEC","rf_sram_ctrl3."],["W","Register `rf_sram_ctrl3` writer"]]});

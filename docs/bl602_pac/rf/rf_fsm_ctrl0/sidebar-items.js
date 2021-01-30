@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["R","Register `rf_fsm_ctrl0` reader"],["RF_CH_IND_WIFI_R","Field `rf_ch_ind_wifi` reader - "],["RF_CH_IND_WIFI_W","Field `rf_ch_ind_wifi` writer - "],["RF_FSM_CTRL0_SPEC","rf_fsm_ctrl0."],["W","Register `rf_fsm_ctrl0` writer"]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["R","Register `sd_chip_id_high` reader"],["SD_CHIP_ID_HIGH_R","Field `sd_chip_id_high` reader - "],["SD_CHIP_ID_HIGH_SPEC","sd_chip_id_high."],["SD_CHIP_ID_HIGH_W","Field `sd_chip_id_high` writer - "],["W","Register `sd_chip_id_high` writer"]]});

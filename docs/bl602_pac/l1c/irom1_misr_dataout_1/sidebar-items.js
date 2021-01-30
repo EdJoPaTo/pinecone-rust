@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["IROM1_MISR_DATAOUT_1_SPEC","irom1_misr_dataout_1."],["R","Register `irom1_misr_dataout_1` reader"]]});

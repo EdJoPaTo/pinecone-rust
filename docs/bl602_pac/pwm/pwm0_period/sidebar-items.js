@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["PWM0_PERIOD_SPEC","pwm0_period."],["PWM_PERIOD_R","Field `pwm_period` reader - "],["PWM_PERIOD_W","Field `pwm_period` writer - "],["R","Register `pwm0_period` reader"],["W","Register `pwm0_period` writer"]]});

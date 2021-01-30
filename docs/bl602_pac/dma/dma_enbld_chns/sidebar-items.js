@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["DMA_ENBLDCHNS_SPEC","DMA_EnbldChns."],["ENABLEDCHANNELS_R","Field `EnabledChannels` reader - "],["ENABLEDCHANNELS_W","Field `EnabledChannels` writer - "],["R","Register `DMA_EnbldChns` reader"],["W","Register `DMA_EnbldChns` writer"]]});

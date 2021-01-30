@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["HBN_IRQ_CLR_SPEC","HBN_IRQ_CLR."],["IRQ_CLR_R","Field `irq_clr` reader - "],["IRQ_CLR_W","Field `irq_clr` writer - "],["R","Register `HBN_IRQ_CLR` reader"],["W","Register `HBN_IRQ_CLR` writer"]]});

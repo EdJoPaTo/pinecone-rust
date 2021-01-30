@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["R","Register `tzc_glb_ctrl_3` reader"],["TZC_GLB_CTRL_3_SPEC","tzc_glb_ctrl_3."]]});

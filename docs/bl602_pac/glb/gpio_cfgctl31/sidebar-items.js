@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["GPIO_CFGCTL31_SPEC","GPIO_CFGCTL31."],["R","Register `GPIO_CFGCTL31` reader"]]});

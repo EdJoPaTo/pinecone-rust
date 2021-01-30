@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["DMA_SOFTLBREQ_SPEC","DMA_SoftLBReq."],["R","Register `DMA_SoftLBReq` reader"],["SOFTLBREQ_R","Field `SoftLBReq` reader - "],["SOFTLBREQ_W","Field `SoftLBReq` writer - "],["W","Register `DMA_SoftLBReq` writer"]]});

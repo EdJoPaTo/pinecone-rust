@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["GPADC_OS_CAL_DATA_R","Field `gpadc_os_cal_data` reader - "],["GPADC_OS_CAL_DATA_W","Field `gpadc_os_cal_data` writer - "],["GPADC_REG_DEFINE_SPEC","gpadc_reg_define."],["R","Register `gpadc_reg_define` reader"],["W","Register `gpadc_reg_define` writer"]]});

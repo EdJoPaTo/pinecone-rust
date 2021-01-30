@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["R","Register `WICR` reader"],["W","Register `WICR` writer"],["WICLR_R","Field `wiclr` reader - "],["WICLR_W","Field `wiclr` writer - "],["WICR_SPEC","WICR."]]});

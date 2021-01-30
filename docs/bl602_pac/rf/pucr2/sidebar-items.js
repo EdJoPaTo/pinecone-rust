@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["PUCR2_SPEC","pucr2."],["R","Register `pucr2` reader"]]});
