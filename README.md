@@ -2,8 +2,8 @@
 
 Based on...
 
-[lupyuen BL602 Rust Guide](https://github.com/lupyuen/bl602-rust-guide)
-[Sipeed BL602 Rust Guide](https://github.com/sipeed/bl602-rust-guide)
+- [lupyuen BL602 Rust Guide](https://github.com/lupyuen/bl602-rust-guide)
+- [Sipeed BL602 Rust Guide](https://github.com/sipeed/bl602-rust-guide)
 
 
 ## Build and run
